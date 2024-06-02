@@ -19,5 +19,4 @@ https://thumbs.dreamstime.com/z/trash-bins-full-empty-vector-illustration-white-
 Customer image:
 https://www.behance.net/gallery/133796483/Quero-caf-GIF
 
-https://github.com/vitorbetmann/Where-s_My_Coffee-/assets/143951155/099ae8cf-3fe5-42f4-92a9-c7552b2bf687
-
+https://github.com/vitorbetmann/Where-s_My_Coffee-/assets/143951155/de502335-bbad-4b0f-879e-91365c22e553
