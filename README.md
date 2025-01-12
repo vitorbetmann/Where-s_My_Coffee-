@@ -8,12 +8,6 @@ _Where's My Coffee_ is an original card game inspired by Betmann's barista exper
 
 Watch Game Play Here: https://www.youtube.com/watch?v=8p68KTO2cqg&t=2s
 
-------------- UML Diagram ---------------
-
-![UMLDiagram](https://github.com/user-attachments/assets/284a7032-879a-41df-a076-b296d1ba6d9c)
-
-Link to LucidChart Version: https://lucid.app/lucidchart/dcb09728-093e-44bb-86d1-055853021dcd/edit?viewport_loc=-1843%2C-679%2C3038%2C1322%2C0_0&invitationId=inv_e1955e15-0120-4a38-a51b-ad702287a051
-
 ----------- Image Citations --------------
 
 Ingredient cards pixel art by: Julie Ribeiro
@@ -25,3 +19,11 @@ Deck image: https://s3.amazonaws.com/images.penguinmagic.com/images/products/ori
 Trash images: https://thumbs.dreamstime.com/z/trash-bins-full-empty-vector-illustration-white-56217035.jpg?ct=jpeg
 
 Customer image: https://www.behance.net/gallery/133796483/Quero-caf-GIF
+
+------------- UML Diagram ---------------
+
+View in LucidChart: https://lucid.app/lucidchart/dcb09728-093e-44bb-86d1-055853021dcd/edit?viewport_loc=-1843%2C-679%2C3038%2C1322%2C0_0&invitationId=inv_e1955e15-0120-4a38-a51b-ad702287a051
+![UMLDiagram](https://github.com/user-attachments/assets/284a7032-879a-41df-a076-b296d1ba6d9c)
+
+
+
