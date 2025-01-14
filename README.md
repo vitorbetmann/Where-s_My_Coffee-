@@ -3,6 +3,7 @@ EECS1720 - Building Interactive Systems Winter 2023 York University, Toronto
 Vitor Betmann & Jessica Corkal
 
 Betmann's Website: https://betmann.wixsite.com/portfolio/wmc-credits-1
+
 Jessica's Website: https://jcorkal.wixsite.com/jessicacorkal
 
 _Where's My Coffee_ is an original card game inspired by Betmann's barista experience. Players work in a fast-paced environment, using ingredient cards to create drinks for different kinds of customers. Game rules are explained upon running the game with the ultimate goal of making $30.00 in tips without losing more than 5 customers. We implemented the MVC design pattern to enhance game scalability and enable the development of multiple scenes, including tutorials and character selection, to improve player engagement.
